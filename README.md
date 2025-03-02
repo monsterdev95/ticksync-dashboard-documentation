@@ -9,7 +9,7 @@ To understand how Ticksync works, watch our workflow video:
 <table>
   <tr>
     <td align = "center">
-      <img src="./assets/ticksync-copytrading.gif"/>
+      <img src="https://raw.githubusercontent.com/monsterdev95/ticksync-dashboard-documentation/main/assets/ticksync-copytrading.gif" />
     </td>
   </tr>
 </table>
