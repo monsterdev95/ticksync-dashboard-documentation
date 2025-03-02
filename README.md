@@ -24,6 +24,7 @@ To understand how Ticksync works, watch our workflow video:
 ### Main Backend
 - Leveraging Node.js for efficient server-side operations, handling user registrations, transactions, and data management.
 - Implemented Affiliate Marketing with award strategy to collect many users.
+- Developed Amin Panel backend for affiliate marketing management. 
 
 ### MetaTrader API Backend
 - Implemented using ASP.NET, facilitating robust integration with MT4 and MT5 for real-time trade execution and account management.
